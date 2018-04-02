@@ -1,0 +1,6 @@
+C:\Users\Mark\Desktop\MVC\Dependency Inversion\Dependency Inversion\bin\Debug\Dependency Inversion.exe.config
+C:\Users\Mark\Desktop\MVC\Dependency Inversion\Dependency Inversion\bin\Debug\Dependency Inversion.exe
+C:\Users\Mark\Desktop\MVC\Dependency Inversion\Dependency Inversion\bin\Debug\Dependency Inversion.pdb
+C:\Users\Mark\Desktop\MVC\Dependency Inversion\Dependency Inversion\obj\Debug\Dependency Inversion.exe
+C:\Users\Mark\Desktop\MVC\Dependency Inversion\Dependency Inversion\obj\Debug\Dependency Inversion.pdb
+C:\Users\Mark\Desktop\MVC\Dependency Inversion\Dependency Inversion\obj\Debug\Dependency Inversion.csprojResolveAssemblyReference.cache
